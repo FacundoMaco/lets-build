@@ -67,7 +67,7 @@ Not sure what stack to use? Type "recommend me one" during intake — the skill 
 ## Install
 
 ```bash
-claude plugin marketplace add mavre-dev/lets-build && claude plugin install lets-build@lets-build
+claude plugin marketplace add FacundoMaco/lets-build && claude plugin install lets-build@lets-build
 ```
 
 ---
